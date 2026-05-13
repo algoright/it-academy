@@ -15,8 +15,11 @@ les empreses que hi participen, aplicant consultes SQL per extreure i manipular 
 
 ## Exercicis
 Exercici 1: Importació de taules, anàlisi de l’esquema i creació del diagrama relacional.
+
 Exercici 2: Consultes amb JOIN per obtenir països amb vendes i companyia amb més mitjana de vendes.
+
 Exercici 3: Subconsultes per filtrar transaccions d’Alemanya, empreses sobre la mitjana i sense transaccions.
+
 Exercici 4: Creació de la taula credit_card, relacions amb altres taules i importació de dades CSV.
 Exercici 5: Actualització del PAN de la targeta CcU-2938 i verificació del canvi.
 Exercici 6: Inserció d’una nova transacció a la taula transaction.
