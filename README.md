@@ -1,4 +1,4 @@
-Sprint 2 SQL - Bases de dades relacionals
+###Sprint 2 SQL - Bases de dades relacionals
 
 ## Descripció del projecte
 
