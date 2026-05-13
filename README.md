@@ -1,6 +1,6 @@
-### Sprint 2 SQL - Bases de dades relacionals
+# Sprint 2 SQL - Bases de dades relacionals
 
-# Descripció del projecte
+## Descripció del projecte
 
 Aquest sprint té com a objectiu repassar les nocions bàsiques de l’ús de bases de dades relacionals.  
 Es treballa amb una base de dades d’una empresa dedicada a la venda de productes en línia.
