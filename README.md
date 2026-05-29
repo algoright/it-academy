@@ -1,12 +1,11 @@
-Data Analytics | IT Academy
+Data Analytics | IT Academy | Barcelona
 
     📚 Especialització/ Data Analytics
 
-==============================================================================================
 
-Repositori d'informes i consultes dels 13 sprints del bootcamp en Anàlisis de dades de la IT Acadfemy de Barcelona
 
-===============================================================================================
+# Repositori d'informes i consultes dels 13 sprints del bootcamp en Anàlisis de dades 
+
 
 Objectius generals
 
